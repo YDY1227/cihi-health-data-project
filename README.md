@@ -1,6 +1,6 @@
-# CIHI Health Data Analytics Project
+# Health Data Analytics Project
 
-This project uses open data from the Canadian Institute for Health Information (CIHI) to explore trends in healthcare system performance. The goal is to showcase skills in:
+This project uses open data from the Canadian Health Information to explore trends in healthcare system performance. The goal is to showcase skills in:
 
 - SQL (data extraction and transformation)
 - Power BI (interactive dashboards)
@@ -20,4 +20,4 @@ This project uses open data from the Canadian Institute for Health Information (
 (You’ll add this part later after doing your analysis)
 
 ## 🔗 Source
-Data from: https://www.cihi.ca/en/access-data-and-reports/make-a-data-request/open-data
+Data from:
